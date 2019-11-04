@@ -11,7 +11,7 @@ Then you should see something like the image below which means you have not impl
 OR 
 your code does not do what it's supposed to
 
-![fail](/resources/fail.png?raw=true "Tests Failing")
+![fail](/img/fail.png?raw=true "Tests Failing")
 
 
 ## Requirements
@@ -23,4 +23,4 @@ your code does not do what it's supposed to
 ## Verify Your Code
 Simply run `npm test` to verify your code and all tests should go green like the image below
 
-![fail](/resources/pass.png?raw=true "Tests Passing")
+![fail](/img/pass.png?raw=true "Tests Passing")
