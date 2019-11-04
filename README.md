@@ -11,7 +11,7 @@ Then you should see something like the image below which means you have not impl
 OR 
 your code does not do what it's supposed to
 
-![fail](/resources/fail.png?raw=true "Tests Failing")
+![fail](resources/fail.png?raw=true "Tests Failing")
 
 
 ## Requirements
