@@ -1,7 +1,7 @@
 # Welcome to the class!
 
 ## Description
-1. Clone this repo
+1. Clone/Fork this repo
 2. Open a Terminal
 3. Run `cd online-javascript-full-stack-bootcamp-w6` 
 3. Run `npm install` to install dependencies
@@ -16,8 +16,8 @@ your code does not do what it's supposed to
 
 ## Requirements
 
-2. Open the file 'src/server.js' file with VSCode
-3. Implement the functions using descriptions about each function
+2. Open the file 'src/services/user.service.js' file with VSCode
+3. Implement the functions using provided descriptions
 4. Create a Pull Request to push your changes
 
 ## Verify Your Code
